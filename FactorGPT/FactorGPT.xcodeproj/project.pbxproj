@@ -60,12 +60,12 @@
 		63B69A232A205AC5002BD241 /* FactorGPT */ = {
 			isa = PBXGroup;
 			children = (
+				63B69A3A2A205B5D002BD241 /* View */,
 				63B69A402A205BA5002BD241 /* Utils */,
 				63B69A3F2A205BA0002BD241 /* ViewModel */,
 				63B69A3E2A205B98002BD241 /* Model */,
 				63B69A382A205B55002BD241 /* Model.swift */,
 				63B69A3D2A205B7C002BD241 /* Resources */,
-				63B69A3A2A205B5D002BD241 /* View */,
 				63B69A322A205AC7002BD241 /* Info.plist */,
 			);
 			path = FactorGPT;
